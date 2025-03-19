@@ -178,4 +178,3 @@ db.productos.aggregate([
   }
 ])
 ```
-```
